@@ -1,6 +1,6 @@
 # MSCL_QC
 A little piece of software to check the quality and completeness of the data measured with the GeoTEK MSCL at the RCMG at Ghent University.
-Additionally, blank lines introduced in error during export from the MSCL software can be removed. 
+Additionally, blank lines introduced in error during export from the MSCL software are removed. 
 
 ## Input
 In the MSCL_QC.py, change the paths in the input file location section:
