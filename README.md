@@ -6,7 +6,7 @@ Additionally, blank lines introduced in error during export from the MSCL softwa
 In the MSCL_QC.py, change the paths in the input file location section:
 - source_path: location of the text-based file, as exported from the MSCL software
 - output_path: folder to store processed files
-- sections_path: text file with the order in which the sections have been measured. See scan_order.txt as an example.
+- sections_path: text file with the order in which the sections have been measured, each section on a new line. See scan_order.txt as an example.
   
 ## Output
 For each section:
